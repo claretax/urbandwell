@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import Hero from "@/components/hero"
 import FeaturedProperties from "@/components/featured-properties"
 import SearchSection from "@/components/search-section"
