@@ -9,6 +9,11 @@ import RecentBlogs from "@/components/recent-blogs"
 
 export default function Home() {
   return (
+    <>
+      <Head>
+      <meta name="google-site-verification" content="g13ZIyLvSJC1OcIPBtIXdSoGJnft5Wu6_Vy4xqOm1Hw" />
+      </Head>
+    
     <div>
       <Hero />
       <SearchSection />
@@ -19,5 +24,7 @@ export default function Home() {
       <RecentBlogs />
       <CTASection />
     </div>
+
+      </>
   )
 }
