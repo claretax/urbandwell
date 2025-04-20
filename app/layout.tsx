@@ -25,6 +25,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="canonical" href="https://urbandwell.vercel.app" />
+        <meta name="google-site-verification" content="g13ZIyLvSJC1OcIPBtIXdSoGJnft5Wu6_Vy4xqOm1Hw" />
         <meta name="robots" content="index, follow" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta property="og:title" content="Urbandwell | Premium Real Estate in Jagatpura, Jaipur" />
