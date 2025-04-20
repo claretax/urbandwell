@@ -212,13 +212,13 @@ export function generateMetadata({ params }: { params: { type: string } }) {
 
   if (!type) {
     return {
-      title: "Property Type Not Found | JaipurHomes",
+      title: "Property Type Not Found | Urbandwell",
       description: "The requested property type information could not be found.",
     }
   }
 
   return {
-    title: `${type.title} | JaipurHomes`,
+    title: `${type.title} | Urbandwell`,
     description: type.description,
     keywords: `${type.name.toLowerCase()} in Jaipur, buy ${type.name.toLowerCase()} in Jaipur, ${type.name.toLowerCase()} for sale, luxury ${type.name.toLowerCase()}, affordable ${type.name.toLowerCase()}`,
     openGraph: {

@@ -2,7 +2,7 @@ import Link from "next/link"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Property Types | JaipurHomes",
+  title: "Property Types | Urbandwell",
   description:
     "Explore different types of properties in Jaipur - apartments, villas, plots, commercial spaces, and penthouses. Find the perfect property type for your needs.",
   keywords:

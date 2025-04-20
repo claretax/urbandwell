@@ -155,13 +155,13 @@ export function generateMetadata({ params }: { params: { location: string } }) {
 
   if (!location) {
     return {
-      title: "Location Not Found | JaipurHomes",
+      title: "Location Not Found | Urbandwell",
       description: "The requested location information could not be found.",
     }
   }
 
   return {
-    title: `${location.title} | JaipurHomes`,
+    title: `${location.title} | Urbandwell`,
     description: location.description,
     keywords: `${location.name} properties, real estate in ${location.name}, buy property in ${location.name}, ${location.name} Jaipur, homes in ${location.name}`,
     openGraph: {

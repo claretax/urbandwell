@@ -1,21 +1,21 @@
 import Image from "next/image"
 
 export const metadata = {
-  title: "About Us | JaipurHomes",
+  title: "About Us | Urbandwell",
   description:
-    "Learn about JaipurHomes, the leading real estate agency in Jagatpura, Jaipur. Our mission, vision, and team of expert real estate professionals.",
+    "Learn about Urbandwell, the leading real estate agency in Jagatpura, Jaipur. Our mission, vision, and team of expert real estate professionals.",
 }
 
 export default function AboutPage() {
   return (
     <div className="container mx-auto px-4 py-12">
-      <h1 className="text-4xl font-bold mb-8 text-gray-800">About JaipurHomes</h1>
+      <h1 className="text-4xl font-bold mb-8 text-gray-800">About Urbandwell</h1>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-16">
         <div>
           <h2 className="text-2xl font-bold mb-4 text-gray-800">Our Story</h2>
           <p className="text-gray-600 mb-4">
-            Founded in 2010, JaipurHomes has established itself as the premier real estate agency in Jagatpura, Jaipur.
+            Founded in 2010, Urbandwell has established itself as the premier real estate agency in Jagatpura, Jaipur.
             What started as a small family business has grown into a trusted name in the real estate market, known for
             our integrity, expertise, and commitment to client satisfaction.
           </p>
@@ -30,7 +30,7 @@ export default function AboutPage() {
           </p>
         </div>
         <div className="relative h-[400px] rounded-lg overflow-hidden">
-          <Image src="/placeholder.svg?height=400&width=600" alt="JaipurHomes office" fill className="object-cover" />
+          <Image src="/placeholder.svg?height=400&width=600" alt="Urbandwell office" fill className="object-cover" />
         </div>
       </div>
 

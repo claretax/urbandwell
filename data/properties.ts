@@ -39,7 +39,7 @@ export const properties: Property[] = [
       name: "Rahul Sharma",
       image: "/placeholder.svg?height=100&width=100&text=RS",
       phone: "+91 98765 43210",
-      email: "rahul@jaipurhomes.com",
+      email: "rahul@urbandwell.vercel.app",
     },
   },
   {
@@ -80,7 +80,7 @@ export const properties: Property[] = [
       name: "Priya Patel",
       image: "/placeholder.svg?height=100&width=100&text=PP",
       phone: "+91 98765 43211",
-      email: "priya@jaipurhomes.com",
+      email: "priya@urbandwell.vercel.app",
     },
   },
   {
@@ -119,7 +119,7 @@ export const properties: Property[] = [
       name: "Amit Verma",
       image: "/placeholder.svg?height=100&width=100&text=AV",
       phone: "+91 98765 43212",
-      email: "amit@jaipurhomes.com",
+      email: "amit@urbandwell.vercel.app",
     },
   },
   {
@@ -158,7 +158,7 @@ export const properties: Property[] = [
       name: "Rahul Sharma",
       image: "/placeholder.svg?height=100&width=100&text=RS",
       phone: "+91 98765 43210",
-      email: "rahul@jaipurhomes.com",
+      email: "rahul@urbandwell.vercel.app",
     },
   },
   {
@@ -197,7 +197,7 @@ export const properties: Property[] = [
       name: "Priya Patel",
       image: "/placeholder.svg?height=100&width=100&text=PP",
       phone: "+91 98765 43211",
-      email: "priya@jaipurhomes.com",
+      email: "priya@urbandwell.vercel.app",
     },
   },
   {
@@ -238,7 +238,7 @@ export const properties: Property[] = [
       name: "Amit Verma",
       image: "/placeholder.svg?height=100&width=100&text=AV",
       phone: "+91 98765 43212",
-      email: "amit@jaipurhomes.com",
+      email: "amit@urbandwell.vercel.app",
     },
   },
   {
@@ -279,7 +279,7 @@ export const properties: Property[] = [
       name: "Rahul Sharma",
       image: "/placeholder.svg?height=100&width=100&text=RS",
       phone: "+91 98765 43210",
-      email: "rahul@jaipurhomes.com",
+      email: "rahul@urbandwell.vercel.app",
     },
   },
   {
@@ -320,7 +320,7 @@ export const properties: Property[] = [
       name: "Priya Patel",
       image: "/placeholder.svg?height=100&width=100&text=PP",
       phone: "+91 98765 43211",
-      email: "priya@jaipurhomes.com",
+      email: "priya@urbandwell.vercel.app",
     },
   },
 ]

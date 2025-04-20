@@ -2,7 +2,7 @@ import Link from "next/link"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Explore Locations | JaipurHomes",
+  title: "Explore Locations | Urbandwell",
   description:
     "Discover prime real estate locations in Jaipur. Browse properties in Jagatpura, Malviya Nagar, Mansarovar, and other top neighborhoods.",
   keywords: "Jaipur locations, Jagatpura real estate, Malviya Nagar properties, Mansarovar homes, Jaipur neighborhoods",
@@ -97,7 +97,7 @@ export default function LocationsPage() {
           something for everyone in the Pink City.
         </p>
         <p className="text-gray-600">
-          At JaipurHomes, we help you navigate through the various locations in Jaipur to find the one that best suits
+          At Urbandwell, we help you navigate through the various locations in Jaipur to find the one that best suits
           your requirements and preferences. Our local expertise and market knowledge ensure that you make an informed
           decision when choosing a location for your home or investment.
         </p>

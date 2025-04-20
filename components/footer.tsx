@@ -10,8 +10,8 @@ export default function Footer() {
             <div className="mb-4">
               <div className="relative h-10 w-40">
                 <Image
-                  src="/placeholder.svg?height=40&width=160&text=JaipurHomes"
-                  alt="JaipurHomes Logo"
+                  src="/placeholder.svg?height=40&width=160&text=Urbandwell"
+                  alt="Urbandwell Logo"
                   fill
                   className="object-contain"
                 />
@@ -164,7 +164,7 @@ export default function Footer() {
                     d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                   />
                 </svg>
-                <span className="text-gray-400">info@jaipurhomes.com</span>
+                <span className="text-gray-400">info@urbandwell.vercel.app</span>
               </li>
             </ul>
           </div>
@@ -172,7 +172,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 mb-4 md:mb-0">© 2023 JaipurHomes. All rights reserved.</p>
+            <p className="text-gray-400 mb-4 md:mb-0">© 2023 Urbandwell. All rights reserved.</p>
             <div className="flex space-x-6">
               <Link href="/privacy-policy" className="text-gray-400 hover:text-white">
                 Privacy Policy

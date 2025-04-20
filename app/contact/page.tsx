@@ -1,7 +1,7 @@
 export const metadata = {
-  title: "Contact Us | JaipurHomes",
+  title: "Contact Us | Urbandwell",
   description:
-    "Get in touch with JaipurHomes for any queries about properties in Jagatpura, Jaipur. Visit our office, call us, or fill out the contact form.",
+    "Get in touch with Urbandwell for any queries about properties in Jagatpura, Jaipur. Visit our office, call us, or fill out the contact form.",
 }
 
 export default function ContactPage() {
@@ -83,7 +83,7 @@ export default function ContactPage() {
                 </svg>
                 <div>
                   <p className="font-semibold">Email</p>
-                  <p className="text-gray-600">info@jaipurhomes.com</p>
+                  <p className="text-gray-600">info@urbandwell.vercel.app</p>
                 </div>
               </div>
               <div className="flex items-start">

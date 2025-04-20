@@ -6,7 +6,7 @@ export const dynamic = "force-static"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   // Base URL - replace with your actual domain in production
-  const baseUrl = "https://jaipurhomes.com"
+  const baseUrl = "https://urbandwell.vercel.app"
 
   // Get all property IDs for dynamic routes
   const propertyRoutes = properties.map((property) => ({

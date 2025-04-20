@@ -8,7 +8,7 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "JaipurHomes | Premium Real Estate in Jagatpura, Jaipur",
+  title: "Urbandwell | Premium Real Estate in Jagatpura, Jaipur",
   description:
     "Find your dream home in Jagatpura, Jaipur. Browse through our exclusive listings of apartments, villas, and plots with detailed information and virtual tours.",
   keywords:
@@ -24,16 +24,16 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="canonical" href="https://jaipurhomes.com" />
+        <link rel="canonical" href="https://urbandwell.vercel.app" />
         <meta name="robots" content="index, follow" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta property="og:title" content="JaipurHomes | Premium Real Estate in Jagatpura, Jaipur" />
+        <meta property="og:title" content="Urbandwell | Premium Real Estate in Jagatpura, Jaipur" />
         <meta
           property="og:description"
           content="Find your dream home in Jagatpura, Jaipur. Browse through our exclusive listings of apartments, villas, and plots."
         />
         <meta property="og:image" content="/images/og-image.jpg" />
-        <meta property="og:url" content="https://jaipurhomes.com" />
+        <meta property="og:url" content="https://urbandwell.vercel.app" />
         <meta name="twitter:card" content="summary_large_image" />
       </head>
       <body className={inter.className}>

@@ -96,7 +96,7 @@ const blogPosts = [
       
       <p>When investing in real estate in Jaipur, it's essential to consider factors like location, infrastructure development, connectivity, amenities, and future growth potential. The areas mentioned above offer a good balance of these factors and are likely to provide attractive returns on investment in the coming years.</p>
       
-      <p>At JaipurHomes, we can help you identify the best investment opportunities in these areas based on your budget and investment goals. Contact our real estate experts for personalized advice and assistance.</p>
+      <p>At Urbandwell, we can help you identify the best investment opportunities in these areas based on your budget and investment goals. Contact our real estate experts for personalized advice and assistance.</p>
     `,
     date: "May 15, 2023",
     author: "Rahul Sharma",
@@ -203,7 +203,7 @@ const blogPosts = [
       
       <p>Getting a home loan in Rajasthan is a straightforward process if you have all the necessary documents and meet the eligibility criteria. By understanding the process and comparing offers from different lenders, you can secure a home loan with favorable terms and fulfill your dream of homeownership.</p>
       
-      <p>At JaipurHomes, we can help you navigate the home loan process and connect you with our banking partners for the best deals. Contact our financial advisors for personalized assistance.</p>
+      <p>At Urbandwell, we can help you navigate the home loan process and connect you with our banking partners for the best deals. Contact our financial advisors for personalized assistance.</p>
     `,
     date: "April 28, 2023",
     author: "Priya Patel",
@@ -343,7 +343,7 @@ const blogPosts = [
       
       <p>Jagatpura's strategic location, excellent connectivity, modern infrastructure, educational institutions, healthcare facilities, and lifestyle amenities make it a preferred choice for homebuyers and investors in Jaipur. The area offers a perfect blend of urban convenience and peaceful living, making it ideal for families, professionals, and investors alike.</p>
       
-      <p>If you're looking to buy a property in Jaipur, Jagatpura should definitely be on your radar. At JaipurHomes, we offer a wide range of properties in Jagatpura to suit different preferences and budgets. Contact our real estate experts to explore your options and make an informed decision.</p>
+      <p>If you're looking to buy a property in Jaipur, Jagatpura should definitely be on your radar. At Urbandwell, we offer a wide range of properties in Jagatpura to suit different preferences and budgets. Contact our real estate experts to explore your options and make an informed decision.</p>
     `,
     date: "April 10, 2023",
     author: "Amit Verma",
@@ -370,13 +370,13 @@ export function generateMetadata({ params }: { params: { id: string } }) {
 
   if (!post) {
     return {
-      title: "Blog Post Not Found | JaipurHomes",
+      title: "Blog Post Not Found | Urbandwell",
       description: "The requested blog post could not be found.",
     }
   }
 
   return {
-    title: `${post.title} | JaipurHomes Blog`,
+    title: `${post.title} | Urbandwell Blog`,
     description: post.excerpt,
     keywords: post.tags.join(", "),
     openGraph: {

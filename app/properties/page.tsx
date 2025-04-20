@@ -5,7 +5,7 @@ import { properties } from "@/data/properties"
 import StructuredData from "@/components/structured-data"
 
 export const metadata = {
-  title: "Property Listings | JaipurHomes",
+  title: "Property Listings | Urbandwell",
   description:
     "Browse our extensive collection of properties in Jagatpura, Jaipur. Filter by type, price, and amenities to find your perfect home.",
   keywords:
@@ -25,7 +25,7 @@ export default function PropertiesPage() {
         name: property.title,
         description: property.description.substring(0, 200) + "...",
         image: property.images[0],
-        url: `https://jaipurhomes.com/properties/${property.id}`,
+        url: `https://urbandwell.vercel.app/properties/${property.id}`,
         offers: {
           "@type": "Offer",
           price: property.price,

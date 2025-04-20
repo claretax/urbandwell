@@ -7,7 +7,7 @@ export default function Testimonials() {
       name: "Rahul Sharma",
       role: "Homeowner",
       content:
-        "JaipurHomes helped me find my dream apartment in Jagatpura. Their team was professional and understood exactly what I was looking for.",
+        "Urbandwell helped me find my dream apartment in Jagatpura. Their team was professional and understood exactly what I was looking for.",
       image: "/placeholder.svg?height=100&width=100&text=RS",
     },
     {
@@ -15,7 +15,7 @@ export default function Testimonials() {
       name: "Priya Patel",
       role: "Investor",
       content:
-        "I've been investing in properties through JaipurHomes for the past 3 years. Their market insights and property recommendations have always been spot on.",
+        "I've been investing in properties through Urbandwell for the past 3 years. Their market insights and property recommendations have always been spot on.",
       image: "/placeholder.svg?height=100&width=100&text=PP",
     },
     {
@@ -23,7 +23,7 @@ export default function Testimonials() {
       name: "Amit Verma",
       role: "First-time Buyer",
       content:
-        "As a first-time buyer, I was nervous about the process. JaipurHomes guided me through every step and made it seamless.",
+        "As a first-time buyer, I was nervous about the process. Urbandwell guided me through every step and made it seamless.",
       image: "/placeholder.svg?height=100&width=100&text=AV",
     },
   ]

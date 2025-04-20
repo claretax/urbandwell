@@ -2,7 +2,7 @@ import Link from "next/link"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Real Estate Blog | JaipurHomes",
+  title: "Real Estate Blog | Urbandwell",
   description:
     "Stay updated with the latest real estate trends, market insights, and property buying tips in Jaipur. Expert advice for homebuyers, sellers, and investors.",
   keywords:
