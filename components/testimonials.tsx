@@ -8,7 +8,7 @@ export default function Testimonials() {
       role: "Homeowner",
       content:
         "Urbandwell helped me find my dream apartment in Jagatpura. Their team was professional and understood exactly what I was looking for.",
-      image: "/placeholder.svg?height=100&width=100&text=RS",
+      image: "/images/testimonials/1.jpg?height=100&width=100&text=RS",
     },
     {
       id: 2,
@@ -16,7 +16,7 @@ export default function Testimonials() {
       role: "Investor",
       content:
         "I've been investing in properties through Urbandwell for the past 3 years. Their market insights and property recommendations have always been spot on.",
-      image: "/placeholder.svg?height=100&width=100&text=PP",
+      image: "/images/testimonials/2.jpg?height=100&width=100&text=PP",
     },
     {
       id: 3,
@@ -24,7 +24,7 @@ export default function Testimonials() {
       role: "First-time Buyer",
       content:
         "As a first-time buyer, I was nervous about the process. Urbandwell guided me through every step and made it seamless.",
-      image: "/placeholder.svg?height=100&width=100&text=AV",
+      image: "/images/testimonials/3.jpg?height=100&width=100&text=AV",
     },
   ]
 
