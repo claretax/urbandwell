@@ -8,21 +8,21 @@ export default function RecentBlogs() {
       title: "Top 5 Residential Areas in Jaipur for Investment",
       excerpt: "Discover the best areas in Jaipur to invest in real estate for maximum returns.",
       date: "May 15, 2023",
-      image: "/placeholder.svg?height=300&width=500&text=Investment+Areas",
+      image: "/images/blog/1.jpg?height=300&width=500&text=Investment+Areas",
     },
     {
       id: 2,
       title: "Guide to Home Loans in Rajasthan",
       excerpt: "Everything you need to know about getting a home loan in Rajasthan.",
       date: "April 28, 2023",
-      image: "/placeholder.svg?height=300&width=500&text=Home+Loans",
+      image: "/images/blog/2.jpg?height=300&width=500&text=Home+Loans",
     },
     {
       id: 3,
       title: "Jagatpura: The Rising Star of Jaipur Real Estate",
       excerpt: "Why Jagatpura is becoming the most sought-after location for homebuyers in Jaipur.",
       date: "April 10, 2023",
-      image: "/placeholder.svg?height=300&width=500&text=Jagatpura+Growth",
+      image: "/images/blog/3.jpg?height=300&width=500&text=Jagatpura+Growth",
     },
   ]
 
