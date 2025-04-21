@@ -7,19 +7,19 @@ export default function LocationHighlights() {
       id: "jagatpura",
       name: "Jagatpura",
       description: "A prime residential area with excellent connectivity and modern amenities.",
-      image: "/placeholder.svg?height=400&width=600&text=Jagatpura",
+      image: "/images/locations/jagatpura.jpg?height=400&width=600&text=Jagatpura",
     },
     {
       id: "malviya-nagar",
       name: "Malviya Nagar",
       description: "An established neighborhood with a mix of residential and commercial properties.",
-      image: "/placeholder.svg?height=400&width=600&text=Malviya+Nagar",
+      image: "/images/locations/malviyaNagar.jpg?height=400&width=600&text=Malviya+Nagar",
     },
     {
       id: "mansarovar",
       name: "Mansarovar",
       description: "A well-planned area with wide roads and green spaces.",
-      image: "/placeholder.svg?height=400&width=600&text=Mansarovar",
+      image: "/images/locations/mansarovar.jpg?height=400&width=600&text=Mansarovar",
     },
   ]
 
