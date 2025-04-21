@@ -10,8 +10,8 @@ export default function Footer() {
             <div className="mb-4">
               <div className="relative h-10 w-40">
                 <Image
-                  src="/placeholder.svg?height=40&width=160&text=Urbandwell"
-                  alt="Urbandwell Logo"
+                  src="/images/logos/logo-white.svg"
+                  alt="UrbanDwell Logo"
                   fill
                   className="object-contain"
                 />

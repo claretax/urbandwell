@@ -16,10 +16,11 @@ export default function Header() {
           <Link href="/" className="flex items-center">
             <div className="relative h-10 w-40">
               <Image
-                src="/placeholder.svg?height=40&width=160&text=Urbandwell"
-                alt="Urbandwell Logo"
+                src="/images/logos/logo.png"
+                alt="UrbanDwell Logo"
                 fill
                 className="object-contain"
+                priority
               />
             </div>
           </Link>

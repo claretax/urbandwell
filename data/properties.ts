@@ -18,10 +18,10 @@ export const properties: Property[] = [
     floor: "5th",
     garage: "1 Car",
     images: [
-      "/placeholder.svg?height=600&width=800&text=Modern+Apartment+1",
-      "/placeholder.svg?height=600&width=800&text=Modern+Apartment+2",
-      "/placeholder.svg?height=600&width=800&text=Modern+Apartment+3",
-      "/placeholder.svg?height=600&width=800&text=Modern+Apartment+4",
+      "/images/properties/prop-001/img01.jpg?height=600&width=800&text=Modern+Apartment+1",
+      "/images/properties/prop-001/img02.jpg?height=600&width=800&text=Modern+Apartment+2",
+      "/images/properties/prop-001/img03.jpg?height=600&width=800&text=Modern+Apartment+3",
+      "/images/properties/prop-001/img04.jpg?height=600&width=800&text=Modern+Apartment+4",
     ],
     amenities: [
       "Swimming Pool",
@@ -59,10 +59,10 @@ export const properties: Property[] = [
     floor: "Ground + 1",
     garage: "2 Cars",
     images: [
-      "/placeholder.svg?height=600&width=800&text=Luxury+Villa+1",
-      "/placeholder.svg?height=600&width=800&text=Luxury+Villa+2",
-      "/placeholder.svg?height=600&width=800&text=Luxury+Villa+3",
-      "/placeholder.svg?height=600&width=800&text=Luxury+Villa+4",
+      "/images/properties/prop-002/img01.jpg?height=600&width=800&text=Luxury+Villa+2",
+      "/images/properties/prop-002/img02.jpg?height=600&width=800&text=Luxury+Villa+1",
+      "/images/properties/prop-002/img03.jpg?height=600&width=800&text=Luxury+Villa+3",
+      "/images/properties/prop-002/img04.jpg?height=600&width=800&text=Luxury+Villa+4",
     ],
     amenities: [
       "Private Garden",
@@ -100,10 +100,10 @@ export const properties: Property[] = [
     floor: "3rd",
     garage: "1 Car",
     images: [
-      "/placeholder.svg?height=600&width=800&text=2BHK+Apartment+1",
-      "/placeholder.svg?height=600&width=800&text=2BHK+Apartment+2",
-      "/placeholder.svg?height=600&width=800&text=2BHK+Apartment+3",
-      "/placeholder.svg?height=600&width=800&text=2BHK+Apartment+4",
+      "/images/properties/prop-003/img01.jpg?height=600&width=800&text=2BHK+Apartment+1",
+      "/images/properties/prop-003/img02.jpg?height=600&width=800&text=2BHK+Apartment+2",
+      "/images/properties/prop-003/img03.jpg?height=600&width=800&text=2BHK+Apartment+3",
+      "/images/properties/prop-003/img04.jpg?height=600&width=800&text=2BHK+Apartment+4",
     ],
     amenities: [
       "Swimming Pool",
@@ -139,10 +139,10 @@ export const properties: Property[] = [
     floor: "Ground",
     garage: "5 Cars",
     images: [
-      "/placeholder.svg?height=600&width=800&text=Commercial+Space+1",
-      "/placeholder.svg?height=600&width=800&text=Commercial+Space+2",
-      "/placeholder.svg?height=600&width=800&text=Commercial+Space+3",
-      "/placeholder.svg?height=600&width=800&text=Commercial+Space+4",
+      "/images/properties/prop-004/img01.jpg?height=600&width=800&text=Commercial+Space+1",
+      "/images/properties/prop-004/img02.jpg?height=600&width=800&text=Commercial+Space+2",
+      "/images/properties/prop-004/img03.jpg?height=600&width=800&text=Commercial+Space+3",
+      "/images/properties/prop-004/img04.jpg?height=600&width=800&text=Commercial+Space+4",
     ],
     amenities: [
       "24/7 Security",
@@ -178,10 +178,10 @@ export const properties: Property[] = [
     floor: null,
     garage: null,
     images: [
-      "/placeholder.svg?height=600&width=800&text=Residential+Plot+1",
-      "/placeholder.svg?height=600&width=800&text=Residential+Plot+2",
-      "/placeholder.svg?height=600&width=800&text=Residential+Plot+3",
-      "/placeholder.svg?height=600&width=800&text=Residential+Plot+4",
+      "/images/properties/prop-005/img01.jpg?height=600&width=800&text=Residential+Plot+1",
+      "/images/properties/prop-005/img02.jpg?height=600&width=800&text=Residential+Plot+2",
+      "/images/properties/prop-005/img03.jpg?height=600&width=800&text=Residential+Plot+3",
+      "/images/properties/prop-005/img04.jpg?height=600&width=800&text=Residential+Plot+4",
     ],
     amenities: [
       "Gated Community",
@@ -217,10 +217,10 @@ export const properties: Property[] = [
     floor: "Penthouse",
     garage: "2 Cars",
     images: [
-      "/placeholder.svg?height=600&width=800&text=Penthouse+1",
-      "/placeholder.svg?height=600&width=800&text=Penthouse+2",
-      "/placeholder.svg?height=600&width=800&text=Penthouse+3",
-      "/placeholder.svg?height=600&width=800&text=Penthouse+4",
+      "/images/properties/prop-006/img01.jpg?height=600&width=800&text=Penthouse+1",
+      "/images/properties/prop-006/img02.jpg?height=600&width=800&text=Penthouse+2",
+      "/images/properties/prop-006/img03.jpg?height=600&width=800&text=Penthouse+3",
+      "/images/properties/prop-006/img04.jpg?height=600&width=800&text=Penthouse+4",
     ],
     amenities: [
       "Private Terrace Garden",
@@ -258,10 +258,10 @@ export const properties: Property[] = [
     floor: "7th",
     garage: "1 Car",
     images: [
-      "/placeholder.svg?height=600&width=800&text=3BHK+Rental+1",
-      "/placeholder.svg?height=600&width=800&text=3BHK+Rental+2",
-      "/placeholder.svg?height=600&width=800&text=3BHK+Rental+3",
-      "/placeholder.svg?height=600&width=800&text=3BHK+Rental+4",
+      "/images/properties/prop-007/img01.jpg?height=600&width=800&text=3BHK+Rental+1",
+      "/images/properties/prop-007/img02.jpg?height=600&width=800&text=3BHK+Rental+2",
+      "/images/properties/prop-007/img03.jpg?height=600&width=800&text=3BHK+Rental+3",
+      "/images/properties/prop-007/img04.jpg?height=600&width=800&text=3BHK+Rental+4",
     ],
     amenities: [
       "Swimming Pool",
@@ -299,10 +299,10 @@ export const properties: Property[] = [
     floor: "4th",
     garage: "3 Cars",
     images: [
-      "/placeholder.svg?height=600&width=800&text=Office+Space+1",
-      "/placeholder.svg?height=600&width=800&text=Office+Space+2",
-      "/placeholder.svg?height=600&width=800&text=Office+Space+3",
-      "/placeholder.svg?height=600&width=800&text=Office+Space+4",
+      "/images/properties/prop-008/img01.jpg?height=600&width=800&text=Office+Space+1",
+      "/images/properties/prop-008/img02.jpg?height=600&width=800&text=Office+Space+2",
+      "/images/properties/prop-008/img03.jpg?height=600&width=800&text=Office+Space+3",
+      "/images/properties/prop-008/img04.jpg?height=600&width=800&text=Office+Space+4",
     ],
     amenities: [
       "24/7 Security",

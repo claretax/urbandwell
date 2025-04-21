@@ -6,7 +6,7 @@ export default function Hero() {
     <div className="relative h-[600px] flex items-center">
       <div className="absolute inset-0 z-0">
         <Image
-          src="/placeholder.svg?height=600&width=1920&text=Jagatpura+Skyline"
+          src="/images/banners/hero-banner1.jpeg?height=600&width=1920&text=Jagatpura+Skyline"
           alt="Jagatpura Skyline"
           fill
           className="object-cover"
