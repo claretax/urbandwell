@@ -7,25 +7,25 @@ export default function PropertyTypes() {
       id: "apartment",
       name: "Apartments",
       count: 24,
-      image: "/placeholder.svg?height=300&width=400&text=Apartments",
+      image: "/images/propertyType/apartments.jpg?height=300&width=400&text=Apartments",
     },
     {
       id: "villa",
       name: "Villas",
       count: 18,
-      image: "/placeholder.svg?height=300&width=400&text=Villas",
+      image: "/images/propertyType/villas.jpg?height=300&width=400&text=Villas",
     },
     {
       id: "plot",
       name: "Plots",
       count: 12,
-      image: "/placeholder.svg?height=300&width=400&text=Plots",
+      image: "/images/propertyType/plots.jpg?height=300&width=400&text=Plots",
     },
     {
       id: "commercial",
       name: "Commercial",
       count: 8,
-      image: "/placeholder.svg?height=300&width=400&text=Commercial",
+      image: "/images/propertyType/commercial.jpg?height=300&width=400&text=Commercial",
     },
   ]
 
